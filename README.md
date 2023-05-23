@@ -1,5 +1,3 @@
-Sure! Here's the rewritten version with drop-down sections and emojis:
-
 <details>
   <summary>🚀 Machine Learning Course (Completed)</summary>
 
