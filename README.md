@@ -1,5 +1,4 @@
-<details>
-  <summary>🚀 Machine Learning Course (Completed)</summary>
+🚀 Machine Learning Course (Completed)
 
 Welcome to my Machine Learning course! This project showcases the culmination of my self-learning journey and exploration in the exciting field of Machine Learning. Throughout this course, I have acquired in-depth knowledge of complex theories, algorithms, and coding libraries, and I'm thrilled to share my accomplishments with you. 🌟
 
